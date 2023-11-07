@@ -1,0 +1,26 @@
+{
+  "name": "Landon Taylor",
+  "age": 22,
+  "address": {
+    "street": "Gozaw Pass",
+    "city": "Guhsude",
+    "state": "RI",
+    "zip": "87992"
+  },
+  "contact": {
+    "phone": "(402) 819-4915",
+    "servicePhone": "800113458"
+  },
+  "birthday": "1990-04-30T10:09:58.664Z",
+  "ip": "109.85.176.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Relgo hi doj zo zim pavezu di nakemrid karhajta rullo ufi buked da bez fid rodavkim. Ti gibku bi ugahozih meje totezase nu loh tecbuoz buk voh almi litzu kih. Ezuv puhih apzi ipudzap cosako buvgokat hef sivcitefa geptasa irasiom uson wiuhu zev gis pek. Wuebamow jor uwoapo gipogbew ij focewero sutvoso dillunsi gabhor dug puhgofat ikiweeva nejeuf.",
+    "bio": "Sojti gidgobmo jifel mi otoete ok po rijodne ina ja jipeb uj uva bug atakowes avba. Sitisigut ponol pigufo nika tikigutu puero ogpiswo fiope hu gubwe ge bogkav. Ciru dimewmo rocirpuz tej zejdojje fojemif ra sa sufejko uhu cicu fubcujof tuc obaciabo."
+  },
+  "apiKey": "15d0d416412f6ef4f3254856b0b69357a5f5353c3ccd9793c53bc4f4f7d41f5d",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
