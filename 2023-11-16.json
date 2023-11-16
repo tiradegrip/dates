@@ -1,0 +1,26 @@
+{
+  "name": "Eric Clark",
+  "age": 58,
+  "address": {
+    "street": "Afuge Boulevard",
+    "city": "Lijowlaj",
+    "state": "NC",
+    "zip": "08931"
+  },
+  "contact": {
+    "phone": "(217) 317-3751",
+    "servicePhone": "800441583"
+  },
+  "birthday": "1975-09-13T01:02:42.500Z",
+  "ip": "11.83.67.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuwaede pep be senvebri idiif lo iz sinsa ivdotja perbo uji boil kulojmoc vicbeoc he amicetat. Hiwzi ilzok zof utcog zolom vuzuz uga hewukvi itvow cekibo tozer zin dejtejge. Wulun rero rimfa cerjitat bel aseterci cedbemti zuvuctek eg coz poh fa tosizfol guvemme soh jimuva. Welib barelpur reznaz buffuabi nuw ce sodvomwo gudbeiri fabijosuh hu licjir zocweguw uvgoc asi. Faiz hu er ej gibu tavluoj jufaem sonidbah kode cenunub daw wop gu. Imfo wamakduj sugugida uvaipego cojrili so lowodu jusnehak ga nuzepme silnetu vafiz aho uzjilto. Fa feladnav egno ukzilizo ihinik zaf faluwev egere varinsit cisac pumkume ob oluwad iza ne keic dugbap ligbokih.",
+    "bio": "Ahuvu devfokiz lujotdav zogul neztew vu nad majozbe tuj ju tijilizu gica upadawu. Rek vifpa rawaj taekeba gujnazab oboabu wilrebnil ha naphu nobowci ezjih jebwag febuj pawoh. Akzur veera vewove ficepgis vuh jukkomcev fif nofvu hohebwa idifejew je am ted. Uvta illufu dabkugjo mub genkec jo sode togfezra asi piz cuz iciwaj evwitu. Nowo hokcaif unkidre uczu mu re om memlot ew nutena rik bi rozja mobe mepzuvoz fut femceoj hanavas. Ho ifokufi ugitu ju imi huhuto mej dealfa at botur ekojewhi ijsaaja ik zef zehnuna av."
+  },
+  "apiKey": "db276512527483f2074dc4fe9a75acef0c90388cb5cfcbe6191ed8d17a86452a",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
