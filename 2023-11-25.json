@@ -1,0 +1,26 @@
+{
+  "name": "Sallie Palmer",
+  "age": 23,
+  "address": {
+    "street": "Datat Lane",
+    "city": "Zoniwino",
+    "state": "FL",
+    "zip": "59203"
+  },
+  "contact": {
+    "phone": "(454) 751-1568",
+    "servicePhone": "800554985"
+  },
+  "birthday": "2003-01-25T00:58:58.083Z",
+  "ip": "189.227.18.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Dornol wo he ugpuc ka se bi baojgaf su minfazsaf ki gir muup. Helamsu lubudte koj hi re wezmawi cu co iwre ikfufi rala danlad de. Sev kimgi kewruzu rascop kuro nofjoc veja dusur aglul guped ewopidug pov ubazigufe du zevi.",
+    "bio": "Zifej asker jaowsa kusboctu fena vog jacnegug ewzecemu riavfaz nowub jozaj jac onezalse rejun. So pitaruna fab luegif jurefmid jegug gujlapgah urof espo zo doc diwosgog vuof feobo. Ali ukbiuso evu ujoeta dabonu zokug gadzojtan oki umuf hi ewki fudiko ef ro. Heez corcaf nikekoha olu ma ik kagmoji wo revo du bu rudpowgac lodtepwa size ahu. Iz divdeus peguzsi ajizoval fov wu ofumajuw hubgugce gobwoci funibapaj cikik zotgujo. Zopuane fosze iz obin tujeto luk le dubmat tuctoru vove se mojajadis gir vuka etide. Dud ma ettugdip evrite taju co zos de admin nojamamug hop gozjod bu zimave caztew se usenug."
+  },
+  "apiKey": "1b898221dfc5d5ab8d17b5f7f4ac112b9242236b65f509f239c79fc199235ef9",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
