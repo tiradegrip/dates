@@ -1,0 +1,26 @@
+{
+  "name": "Alma Curtis",
+  "age": 42,
+  "address": {
+    "street": "Mozje Point",
+    "city": "Rutzieje",
+    "state": "DC",
+    "zip": "62829"
+  },
+  "contact": {
+    "phone": "(823) 734-8611",
+    "servicePhone": "800729364"
+  },
+  "birthday": "1989-12-25T12:41:35.552Z",
+  "ip": "151.107.114.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Hokafin gaffesaza mok jotapde ronkig nolfo evlugfol tem vijifoz filubsew ud ofiagu kajlozzek. Op iseuz kieterac nubi kuan ircuwpu kepbosu jizlifap ocu urocewe zavahjod so hacatsuw vovpu gaw la co. Fereh tiwgaj owleubo babo hetnanac lolebsuw detmik dehujecam iwlun valzi geuhva jawiho okodav wo obedo. Jepi epa du kulurri sah ri wij fokijib kozdivjem we midov larzoz palennoz zakwaoje poabucu taz hevti.",
+    "bio": "Borgali mehoco no dumlobod poz ledabri ziemi iwi rarrepo co takazvi availwu ab multuavo oboco ifum bu. Su cevumdi gusil vum ke zaraf lezumwa nenso asuju elbidac givbat bahwib ton. Pa otob geru tav merirran hamef roaba wu umu ju ij ta sodme pirad."
+  },
+  "apiKey": "fa6bba0cc751d04a7e902c60f99194548bc488a32f356ace8486c4194641fd8d",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
