@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Davidson",
+  "age": 31,
+  "address": {
+    "street": "Zivo Place",
+    "city": "Rupozi",
+    "state": "KY",
+    "zip": "90270"
+  },
+  "contact": {
+    "phone": "(789) 378-5211",
+    "servicePhone": "800886932"
+  },
+  "birthday": "2001-07-09T21:45:17.455Z",
+  "ip": "142.21.73.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Duoti labozonaf za rifkitat bi to gig sarjojaha picafpov jimot magujego dokezga uzoze utuvu. Ri wulo epunici akicu ji ozihid keocpi ekulukup vupofbef kisow koufewu as suh kafpa vit lobzu. Pilo tolo cu sueppah macanhos jube dipotufi hopcib tun fariji ol ike lukibe nolkiklo wipid gujaseto soigilih. Uzobos fuzota li bim aveto saep nim wekjow jesahpop itfagaji ju tedtil laf necaebi rotihid ram sozeppat nohik.",
+    "bio": "Pimmu nig durkewuv ubih vapu pam eci uhpot mufza tuvejog tadepoze jiz gukilu dar dil mi dignal. Saupagu ar ti defuz zibruko voped ca ni cul jobzo how aze. Za ko ki su depe zowe zodirji orehe wabce ja ke birkuhok ohaewpot. Uwlugce dun jur ufi gok igofipje cobu wasbiudi gum ojikudwac amuufara mumkucan ururaed. Mu wi voke giobfu gahega zo jiven ofolu isipuwe aluiki ma piawjab rugucfi pizusa waldeme ifu jioc nilnuvuri. Efadawbe tu vocuzdi coje ba lalfi ozzeknok kutojfa heevo rud woz lo et sivsehu cocge ge cofi. Duib uze hicozaec futcuh ivozew ufji hiw rek emamezse zuf oka telsi."
+  },
+  "apiKey": "b22b9fc53ad0db017589b2274e9758a26545232409eddac5e723ac7474b1caeb",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
