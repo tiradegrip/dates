@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Buchanan",
+  "age": 31,
+  "address": {
+    "street": "Ifoane Pass",
+    "city": "Ipahebbif",
+    "state": "MN",
+    "zip": "54616"
+  },
+  "contact": {
+    "phone": "(314) 440-9571",
+    "servicePhone": "800675437"
+  },
+  "birthday": "1996-11-18T09:27:34.560Z",
+  "ip": "33.32.232.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Du uwugo halefko fel purol waig fa jigocu ur kawfi hauc mo. Jishatwob wajmo ew otiekibi ivefisum vo tumzatoh norumdi cuwro ijodejuwu lawkevor bov. Saswu kikvadik bec hup rud sitzuz cekapbaz givjat om ipugon ciju ka du ritepup obu kah mi tezsonfa. Vij gupame nobbin jijtueju lavco karafvif er elkeh edulre suez de neceh bevepho oclo nalonusi getvosob wajkewo me. Omfe devuk gappijzav uhha geuc tagsih jimuvob siptad rehcuwo bozgiizu go lu vij taji inavuj.",
+    "bio": "Juocsim fam ivcu eveb forik jep depis herhakuc bomafuz roccokeg fiwufij ivo petrutuc poeb uwaowi. Vo goinobu vafjaf ic da uno miwag meftak hifirbig bezbe gedzerum zorifipo hok obaokeduv ricaga nuh uweesiza naghedcu. Sovdi no felot lanjekat se me tuj wolin ro wibogagiv laawoha weeg jas ru rojlo."
+  },
+  "apiKey": "7ff41db9e2da24bb4bf27eee7b291c35f5f54d7a519e5f94cbc63f9f2835b1c8",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
