@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Patterson",
+  "age": 36,
+  "address": {
+    "street": "Hifa Heights",
+    "city": "Guhigbug",
+    "state": "WI",
+    "zip": "41807"
+  },
+  "contact": {
+    "phone": "(942) 716-3076",
+    "servicePhone": "800386699"
+  },
+  "birthday": "1965-10-31T00:38:36.267Z",
+  "ip": "148.94.28.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Kokatveh lac bu degut mecam sa uwu ca lozeg bor mezwol kepse jokcez po enzuwo. Ezcowsot voj duttabu nepe dunzeof su ki tulpojum ka go kedo guz kowji. Ablefo oz nif pih we ut mufeda ne sekhiuv as gogegofom cani zimuzi. Beldenic tidej vu al jefus es ikripe sev cacaj holof zelni vig zeto pa.",
+    "bio": "Rew mehli rohlajho rijusap anci mujwul ku ifevi zecmunum sem lo mib tawev zin oce. Jes jarlifro fa pozeplu vusabe de otavuico kame hicek hukalok uwtuzpad ter uwzog mavik. Fejepmik tajvatge takzufte sep fubcuhzo eldev maj gunga zihadud saduvwo henezih woh anovigi na uwo tod gabli. Fom wekas ec sugaad ninoz saf vi beb vor pos aruapa za kaper zo uvdedesi sehpuac medenhe huofazo."
+  },
+  "apiKey": "78f3012c43d95590d0c4a4411d92c0611e33a02845ca43cd369af6fa3db9e80c",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
