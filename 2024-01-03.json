@@ -1,0 +1,26 @@
+{
+  "name": "Janie Gibbs",
+  "age": 21,
+  "address": {
+    "street": "Miziwu Circle",
+    "city": "Riufeiwa",
+    "state": "GA",
+    "zip": "50747"
+  },
+  "contact": {
+    "phone": "(233) 459-2420",
+    "servicePhone": "800275591"
+  },
+  "birthday": "1987-10-25T17:20:24.623Z",
+  "ip": "68.9.27.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve fozzamig mol depiwepad jun un lattofoc at di bec uni nova mosekeb wiurfuw. Wagdivehi keofad ozsi nagvac hirfiota uniug gov waji wecsa tir ijkib leba hekhag zipuloz sul ikejihpo. Baru zukaklab cenkuvded kiz volhar fofdat fotpuuja li miwajuve bovoj uvporim nufuccaz tut.",
+    "bio": "Oriturtus erome sijiow ewudow vupva gislahpad gazitif bodceka hu majro ro somafur tihetepal rev eb et. Hewut fifmesful lanbi mev awupeve we eju son fubisze zebvo fecsizme da ot. Mon orrekga penes zoksues oliitu ca ak voipafo vujul ladteaja vis bufop ceujgub sijpa vetmanu. Oja mitig ma ew veed gazmaw jo lik cudlewovi ge uw zagano puabu pepgi. Di gi vuk hiz ighoc log ri do zoc an zipdopzaw ke ko."
+  },
+  "apiKey": "ae19eadc145a234d84954efb859556b66c2b2c07bd3c7357c8b7cf8f28d1f561",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
