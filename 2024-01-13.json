@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Thompson",
+  "age": 32,
+  "address": {
+    "street": "Lelu Trail",
+    "city": "Topiiw",
+    "state": "MS",
+    "zip": "27681"
+  },
+  "contact": {
+    "phone": "(687) 757-6534",
+    "servicePhone": "800177317"
+  },
+  "birthday": "1978-11-15T14:43:54.607Z",
+  "ip": "125.199.26.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Zihofane webek ama poahi lo dohekgi ige ned foac rikta jewzo ziz datfaswo cubhuv pa fecrem digapak. Da teb ugmubo las kekne ewpuv somme wipvaha lehalaja puv eteszo paku wu rajulsol uwajikek jif hotaswe fogdeupa. Otaug watzotge ritbebeg ole bo le paofgoj zurij jim noluvoni vadidet uruf va torvi jo. Ke buaziobe wuh lisodam cebic venouzi zurwoc jir rohke rukzi cellu jah ube badset.",
+    "bio": "Razwen zopso wotira naah met ja lemapew ebduki ij sosu ki kizjellif veor nipir owi mivos. Cas mu fuvpaohu ba nonuccus ilair evo to uliwune hasmetof ca beot. Uvcuw wep leozsu caw geiwo waporoh sofka vut enibu pojujici cawun la pe tes."
+  },
+  "apiKey": "915e8aa24ca4da9b73da28fb7561052fc38cde7c8b569527cd36ed1512062a67",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
