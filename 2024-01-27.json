@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Higgins",
+  "age": 35,
+  "address": {
+    "street": "Bosed Center",
+    "city": "Bacemu",
+    "state": "WI",
+    "zip": "60086"
+  },
+  "contact": {
+    "phone": "(761) 862-4279",
+    "servicePhone": "800237783"
+  },
+  "birthday": "1998-11-04T23:59:31.259Z",
+  "ip": "79.5.71.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Dawas norvet hu naznef viwuheh tebi widehdi rel mepu pafguf sov ro selhoac do. Fos kecpeg zo hobmohac cuwlin fepsuwko burmapuwu weris renu wujhu gug ifekel vo obis kes covudemu teg komiv. Se ned uduvejabi rihiruf nigadusi ropes nazelzi mezguz aveseipi duatuve kuh av moktac.",
+    "bio": "Kic sumupup rego relluso wuse zaf wu vid vehovir luf fafoci cuflu gew. Fipavaj jivti bazruz ovikanpi ziliafo zolbin enfu kek oruhi beivuji egvel ejtah gifra wap je hev. Anzaoca onofaul keccom awdo wegigzez laerame dov wo kiuj peha zubuvetu ginega."
+  },
+  "apiKey": "8d883f1780f6ef7f516756dbdd018a08473c7c7cc120f5018ee7d9f3d9487c87",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
