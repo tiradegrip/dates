@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Swanson",
+  "age": 43,
+  "address": {
+    "street": "Vaffiz Place",
+    "city": "Elzoov",
+    "state": "NV",
+    "zip": "06884"
+  },
+  "contact": {
+    "phone": "(351) 643-1562",
+    "servicePhone": "800831937"
+  },
+  "birthday": "1994-07-15T02:00:21.013Z",
+  "ip": "164.217.200.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Zecupsa zinovi reh tar vawkukci me runon ito ceoda karnaf zuwip firhe zarafajeh. Bowoknas ja kidsit nepgodcus jalagmek jeg gotog serzuh geannu rajah od wij tacamoje obcemos. Iwuju kurbun muncuba lotaza domomlew sij sevcon juobo serdon lonpohad ignomo humalcab lupim god jab nik rehugle unove.",
+    "bio": "Awazatur umo dubowus nemjezima dopigna ekoraspu ujazi sesikji tada pisahwi golgib jekuv zoav luubapud welot. Po guf ka buav sizi ji daf viw nohbof newruk jofucu jo uwe col na ibvo. Ridhiz so big huib ruzoh ne temme ta idake pumonfu odno ba. Rivevke wi hozukhe sanelro cazule wog nasgobum sufzalon wotkez lon mogem likhos. Ja bopheb zid badi sac larhikob dirutfuf ku inoazvej zabufzi nulvak biz votih napdow vo. Jop iho cesuc saz afu ocowopoz fime hehewi aj sok wujut ko. Supvopwi ejriplub ab kunrip nur an fu bipvasa damime jaas pumbige woj rac."
+  },
+  "apiKey": "4c650fe6c5a8521e7cc06e245c6cd9d23167fb214fe1178813b5ae2d24511bb9",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
