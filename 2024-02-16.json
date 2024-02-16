@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Reed",
+  "age": 57,
+  "address": {
+    "street": "Kotaz Highway",
+    "city": "Osowicne",
+    "state": "NV",
+    "zip": "00421"
+  },
+  "contact": {
+    "phone": "(510) 371-9487",
+    "servicePhone": "800215814"
+  },
+  "birthday": "1993-04-16T14:16:55.778Z",
+  "ip": "240.253.245.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze as hasgemvet dulohwu ge akgarel ruckosdub tuhcu di fakdegun luk borhuv hesa wuk tesa bub. Biud ub ulcabe succebem hacra ci zijar jidgir jegkokme ifluliw si vic wenu iljedoz guwuzza zigken. Bog ranu uf waf vezizlem ni delede acfeh rocol idfik tu hakfu jois di fejip ga zozrac dajgug. Rineab ihjuupe gi pu age mij jebod lov riwa me enu sakhu idna fa dunki vu nabe. Pabenjik ipa dowiuji denowdad iw kisajace tuf ho dugavut timap gampucwut nig pif ilo.",
+    "bio": "Batkaf cesbogipo dachojig igcabe to zovmarliw ik jejotiz molid ifaninic dohha ukatuz zozjub cat nouri to migobov. Seh bi uk gavrotug onoun eh cidnem vol fi noetele bi alagurod riziccin walleg he ji. Karje netucu fumalek waror niceuci nouw rap sevwen tizif voece jofop fezto ud. Imre eggewen colev leiduzuw gig po lag vusi wu cub an fakume juldi. Zezha mivrege mubodu logavha tucul buj ij mafe ehifogiz wa la fol. Padurahec haseci lo opiwodeg sol adevun juto gi tukwef nikhewmit su neja iha."
+  },
+  "apiKey": "1db9a4953cfd72c1eed30a5fbd48acef8c58e15cc239560febf203e25c190635",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
