@@ -1,0 +1,26 @@
+{
+  "name": "John Hubbard",
+  "age": 20,
+  "address": {
+    "street": "Wufov Court",
+    "city": "Keragjo",
+    "state": "WY",
+    "zip": "59174"
+  },
+  "contact": {
+    "phone": "(408) 973-9729",
+    "servicePhone": "800845544"
+  },
+  "birthday": "1977-09-23T06:20:58.610Z",
+  "ip": "31.198.247.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuude aconihe mo res dut jokko abcote vat mec mavjuksu vuntal go rifoel uwile zutemsu. To kurgonak ubzir mi notdeh dubgagtif diva necno ehunudar enotib guw gekraw ugi vodsonjid. Getebaf kepi nokoid dimu te ruegugut binezus neetuwi zadilmo lub hemefzu zeubo jet wuremim dusa ij ler ezeif. Opeziva ifa pige kowucaaga asifi kaw cialezo haimu ikusaare ev bo vuroome ul agozeg. Ni da mokohno ruv goguh dog su cegasdeb jippah ok terpo nurhadek zut zu. Om maulu gabjawal turradar asihuuko mo liugte puz op usdu doilofu iddi cinpe wo ohofke kis. Gamopwe enfog wukfefvu wenin tipciam wip mitato wirru ronub kebuzas hamdoj eketmek tadhe.",
+    "bio": "Sifne idotfif sataz ugojigzu gud vitliv wiozu wehkub mior tef zufzeuje fenam. Su efa eh am uvesi itbi fo niusice uw arufomo fojisewab lac zetpoab mececap fatce ribih hu cetifne. Geukha secora vitwej sidu nu het doarevil fez cettac fuplipo gez hat gadum mufin ice. Lufa uhrim pob wevde savjatapa hah hig baew ucji huv keaffok pe kugtetriz rul wotaof mugjiwud wem. Rovzezhik id ajakig dilkerlok lourde hueju semwoj ceviz vo lafbugor jo pupugi cu bivrovkus cuhusi deehide. Ac jewvubpam piri foremkiz nevomak lofop rate aza jijsa ekmo zazisdic oci ingo fapbe watu."
+  },
+  "apiKey": "7e4dc13c64a59297bc0e7247907d92e318836883979ebb259502fb731ace3515",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
