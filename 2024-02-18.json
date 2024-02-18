@@ -1,0 +1,26 @@
+{
+  "name": "Rose Hammond",
+  "age": 54,
+  "address": {
+    "street": "Sahu Junction",
+    "city": "Vituniw",
+    "state": "IL",
+    "zip": "59718"
+  },
+  "contact": {
+    "phone": "(776) 520-5833",
+    "servicePhone": "800217769"
+  },
+  "birthday": "1960-01-21T18:26:42.541Z",
+  "ip": "73.194.216.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Pegu ufedi op va nuhe cahjo fetsazij sidu regaz efi zitdek pevezra pem wuvkoj. Bec jubwuj vus na zeubiub oca toszihve fuem uw liktiima folice micza fazeg duneog faepunoc vek gihuib. Cizne su ceho so dahdolso mikuazo bawgetha defgi niijcun oh fe vudcaz izoare riw ru wu asvaf daumafe.",
+    "bio": "Dewo mipeba lejojmaw ura dam ipouvci ufhu fokuzojal tarsa tuihsur jucipaba eb. Ahvote guwzom botmov lijaz kofe ma gal lezse jarocu ci va dev roh umrahif ohgoeve fitid. Ohadu pi futam ondijaw isa bop mes lu okvuk av zilola zuvojuj ise jik sudlih pute kaka."
+  },
+  "apiKey": "033e246af8ffce214879ab24a034f30ec6c94489f1a74ee48830a84bb858060c",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
