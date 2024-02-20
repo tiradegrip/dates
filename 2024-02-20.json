@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Murphy",
+  "age": 20,
+  "address": {
+    "street": "Idet Road",
+    "city": "Izdidco",
+    "state": "WY",
+    "zip": "27068"
+  },
+  "contact": {
+    "phone": "(350) 603-7494",
+    "servicePhone": "800922747"
+  },
+  "birthday": "1968-08-30T23:18:43.945Z",
+  "ip": "215.165.21.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Pebum ivolo depov su sab vecagoef toil zobofi fabsopsa dirpuwuv otpedhez bive iwuz ru fejemiw icjuzbed rebtunun. Jaror hoz vo nabbo rozvihci pafujer rofgekdom nibrecfi nokfup kego ekoises vobaz. Bocin ofoh tidmuop kemog ulovalgez gololma cak romizahe is lezenot udozingi hi.",
+    "bio": "Vik sirdo rijirpus gokik febpaili jo jefugwi duwehi rus ci hanab age his bikigu. Fa wogekfo agzekev od suuze valer tir juwoc wiripu lurtoipe urudahus nueve az rirfifmum zudjuc hagpu butherid. Ro uvtikcub kilit neeje pip kojapdug dorenuj zedwe cavluhbok jebonomi rokiki peuhomoh utewig pogtob jehtaf namod juemi getpaviw."
+  },
+  "apiKey": "ebd86391f24b7d8e8e028b1a12ee4120668fa94abd71fae793e2f318a46734d0",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
