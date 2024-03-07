@@ -1,0 +1,26 @@
+{
+  "name": "Alex Buchanan",
+  "age": 25,
+  "address": {
+    "street": "Dusi Street",
+    "city": "Dunogac",
+    "state": "OR",
+    "zip": "87787"
+  },
+  "contact": {
+    "phone": "(850) 569-1121",
+    "servicePhone": "800859813"
+  },
+  "birthday": "2006-05-20T08:54:03.049Z",
+  "ip": "134.31.168.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Peizo faowo guz doc ruwujut de oz vusvi jasuadu di covovewud dafab. Ucmo opuwep ad tubtoj tod jefmupfu icizoti etnig sewzoras jebgiedu walev janotawu weafa nog duuze kepmuzvoj. Du gaeciake nuckuzo jatsujil lommu imeuv piboh mecpu mepgij ju wajbihzil ugegial. Habkoaj ini ra om heca jonfuawa ofa oseow ne wec ko fosuj gocrit.",
+    "bio": "Onefeoka kon uwtozsi hun ga rogdajasu patosal pu vit fo wegco tanko fec tef ri dinvuc. Nueru eruloel gorneh efas va af ewo apzojro mob wokvanu ujtecluz tihuvra tuwfo wejecena noltinuf ibaduuho hajfecep. Us zeruzojo rujtodda duffi teoga tupvil duzkut tozillo obe canufu majeda keclen huszorib oveiwe."
+  },
+  "apiKey": "51554b0cf0d07c31453374b32c6223d93e7838e78e9bdac2bc56298dcfa26166",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
