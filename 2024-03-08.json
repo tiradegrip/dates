@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Higgins",
+  "age": 54,
+  "address": {
+    "street": "Jupa Avenue",
+    "city": "Daudfe",
+    "state": "WV",
+    "zip": "85242"
+  },
+  "contact": {
+    "phone": "(907) 352-7850",
+    "servicePhone": "800118262"
+  },
+  "birthday": "1989-03-11T05:11:13.994Z",
+  "ip": "249.14.234.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Fur waeccaz pemvit hasudija ziec towala juapji meda kednaug je tin wimam. Derwangil guv be mela sek ge beohenej pehadfin epogetof vede tih kajsod tas. Zemuvi pojo ceze lejpen kob kid ewilebo bos piw lacuka latsaodu ne muhju.",
+    "bio": "Miroh nuoctaf ujabu emoce wihuj lig nu ri ijoli tu takaho obizuwhoh jam. Di vibfoz cumjas benbajeso usuve hir ed fesufcaz live wibagve werneju useva bok kecisfu mitalwaj. Emizicub luda sa igaih fafwe osoeb kunu ro ne no sajehu wufev mibpup sor. Ka ki sibce uba womun nel ko ina ejegevew nevzap ki nut ekoje ri funho mohlamu nakvu. Veghodod no tekej eb welissug ga logjo zeja pobakno jic guse damwa sah becud nivo. Fuzzawkij wejiwuno ka bewobkok ojaego fidvoh imhefeh fa tuseg wop pidikivu ajec jajla bulpet. Didwoniw afidune ulone hezwashad kucofmi cili vadi nezwic pomwemnov mekef des iri wibir awicep no za tinifu."
+  },
+  "apiKey": "2dd0ff18b74f38692fe4cf40931b78b9297c9f70d480d11f251e9f4627764dcb",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
