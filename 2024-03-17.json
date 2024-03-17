@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Fields",
+  "age": 32,
+  "address": {
+    "street": "Ujear Pike",
+    "city": "Ubupusev",
+    "state": "CT",
+    "zip": "89543"
+  },
+  "contact": {
+    "phone": "(312) 349-8756",
+    "servicePhone": "800465146"
+  },
+  "birthday": "1963-08-10T00:44:55.005Z",
+  "ip": "213.129.99.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Upkakus acluh si jovu re ri cutjukuzi jarop fipit sikaidi jekkagov urikez ochefoc. Jusob ki ucebi doodo nul obulu cujiko lajrer oruguvam fofkon ruc tusub nimav jih. Coneha seb pol ginfi uvini om sifpud kob uboesab gen meg zi. Leeztag saj tagorjig jo rad vun zefi naem luvelze foahu jedcowzar lunow ra su ak todisazir car. Co feztisiw co ri haljadi bokpaocu ec cu fu rikjeot okazegbis tal ebafem neftamga rewbam ulgatele.",
+    "bio": "Otfednal em weksef gafpab vosceab leklob awpuh bi noggupun faj ta teefowi ajafen kupwi gohmig. Sar da ziiga ir rozoz ore ri nabwut gijo tezjul ubejew hajehve az luho be. Kuez dod rabeshap soswode nawaaw ka adzangon ebfi rufoba lauzkom re kewa rojemip zok roviem kar raukdu. Sovkib ozeicewov ojmo rez pu wum ehefijze zeg puep noja ecsiv emguvwil no sozje vojum ze daleah. Sohu zirfum carrozuz zuzcecci roji lolez zamif peces fu pa perutri of eh nuja rudaz ge."
+  },
+  "apiKey": "95e5b6bbc8f68d9fd0ec54d1f78ff3ddad508741ba8bcd56b8a6cb34d2a7e7f1",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
