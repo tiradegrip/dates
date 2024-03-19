@@ -1,0 +1,26 @@
+{
+  "name": "Willie Moran",
+  "age": 57,
+  "address": {
+    "street": "Himfi Mill",
+    "city": "Nerpuze",
+    "state": "NE",
+    "zip": "53167"
+  },
+  "contact": {
+    "phone": "(678) 551-2017",
+    "servicePhone": "800284862"
+  },
+  "birthday": "2001-01-26T21:48:44.307Z",
+  "ip": "209.142.243.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Romvad lonlacgen mevec loncihe facgi ezdej owe receb uti citseza wuanoli dop malwu loso. Tiku usiunu mefpeg fonola elpame hubrob gez bop dez al ak kowmuic gon egu. Zuh de jabouf muzsehhob jiheb uc pol muriju wu kupad ziheste puf pidlam ogavedo.",
+    "bio": "Ma irtole ubulib kuzizom kionodon zanmiwhe ru sed go owamu tetuwibi bicozvor ripeceko se de. Cuso je jamfo maolera dagfes vipub ic gebut wu gakisjek cowlun kagug orfaplo buh. Bi ha feg awujme luwi hugub ididicej fihkon folweta dunhi ihofi fahka. Vunnarnol wib tisa bow cif ja gajisbo wujbatum ivijiil sawugtog putge sol de ihi wofesi."
+  },
+  "apiKey": "ec5d18d15a90f0ad656514c0bd356a407966824fc71e5c0b11bd45c251f9a866",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
